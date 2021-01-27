@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+.col{
+    background-color: grey;
+    border-style: 2px solid;
+    border-radius: 12px;
+}
+
+main{
+    background-color: rgb(175, 147, 201);
+    
+}
+.row{
+    border-style: solid;
+    
+}
+
+h5{
+    text-align: center;
+}
+
+
